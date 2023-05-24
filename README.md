@@ -2,9 +2,6 @@
 
 ## Writing own blogs made easier for everyone!
 
-<h2 align="center">
-  <a href="https://soumyajitblogs.vercel.app/" target="_blank">soumyajitblogs.vercel.app</a>
-</h2>
 
 <div align="center">
   <img alt="Demo" src="./Extra/demo.gif" />
@@ -20,16 +17,11 @@
 
 </center>
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Bits-0f-C0de/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Bits-0f-C0de/issues">Request Feature</a>
-</h3>
+
 
 ## Built With
 
-My personal blogpage <a href="http://blogs.soumya-jit.tech/" target="_blank">blogs.soumyajit.tech</a> which features some of my developer blog posts and experiences.<br/>
+
 
 This project was built using these technologies.
 
