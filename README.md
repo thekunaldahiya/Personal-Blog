@@ -1,4 +1,4 @@
-## Bits-0f-C0de
+## Personal Blogs
 
 ## Writing own blogs made easier for everyone!
 
